@@ -1,5 +1,5 @@
 j=0
-while j>=0:
+while j<=40585:
     n=j
     temp=n
     f=0
